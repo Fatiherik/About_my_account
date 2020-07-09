@@ -38,6 +38,8 @@ Python
 
 https://github.com/Fatiherik/Pycoders-Python
 
+https://github.com/Fatiherik/Codecademy-Python
+
 https://github.com/Fatiherik/HackerRank-Python
 
 VBA
