@@ -1,4 +1,4 @@
-# This GitHub account consists of personal projects together with the exercises, projects and notes within the framework of the courses I attended. The curriculums of the courses can be reached via links below.
+# This GitHub account consists of personal projects together with the exercises, projects and notes within the framework of the courses I attended. My Data Science Career Path certificate from Codecademy can be seen above. The curriculums of the courses can be reached via links below.
 
 Pycoders - Python and Data Science Course
 
