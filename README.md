@@ -16,7 +16,7 @@ Hack Your Future - Web Developer Course
 
 https://github.com/HackYourFuture/curriculum
 
-# My projects classified per topic can be found through links below.
+# My projects/courses classified per topic can be found through links below.
 
 Machine Learning Algorithms
 
